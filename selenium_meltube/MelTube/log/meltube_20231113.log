@@ -1,0 +1,222 @@
+2023-11-13 14:36:55,355 - root - INFO - >>>>>>>>>>>>>>>>> Import Playist from Melon >>>>>>>>>>>>>>>>>
+2023-11-13 14:36:55,355 - root - INFO - >>>>>>>>>>>>>>>>> Import Playist from Melon >>>>>>>>>>>>>>>>>
+2023-11-13 14:39:48,824 - root - INFO - Page loading succeeded. Current page number is [1]
+2023-11-13 14:39:48,824 - root - INFO - Page loading succeeded. Current page number is [1]
+2023-11-13 14:39:48,824 - root - INFO - Extract the Melon playlist.
+2023-11-13 14:39:48,824 - root - INFO - Extract the Melon playlist.
+2023-11-13 14:39:48,838 - root - INFO - Load the playlist.
+2023-11-13 14:39:48,838 - root - INFO - Load the playlist.
+2023-11-13 14:39:48,847 - root - INFO - Playlist loading succeeded.
+2023-11-13 14:39:48,847 - root - INFO - Playlist loading succeeded.
+2023-11-13 14:39:49,033 - root - INFO - Extract the last page number.
+2023-11-13 14:39:49,033 - root - INFO - Extract the last page number.
+2023-11-13 14:39:49,050 - root - INFO - Extract the next page's number.
+2023-11-13 14:39:49,050 - root - INFO - Extract the next page's number.
+2023-11-13 14:39:49,059 - root - INFO - Go to the next page.
+2023-11-13 14:39:49,059 - root - INFO - Go to the next page.
+2023-11-13 14:39:49,649 - root - INFO - Load the playlist.
+2023-11-13 14:39:49,649 - root - INFO - Load the playlist.
+2023-11-13 14:39:49,654 - root - INFO - Playlist loading succeeded.
+2023-11-13 14:39:49,654 - root - INFO - Playlist loading succeeded.
+2023-11-13 14:39:49,830 - root - INFO - Extract the last page number.
+2023-11-13 14:39:49,830 - root - INFO - Extract the last page number.
+2023-11-13 14:39:49,844 - root - INFO - Extract the next page's number.
+2023-11-13 14:39:49,844 - root - INFO - Extract the next page's number.
+2023-11-13 14:39:49,851 - root - INFO - Go to the next page.
+2023-11-13 14:39:49,851 - root - INFO - Go to the next page.
+2023-11-13 14:39:50,434 - root - INFO - Load the playlist.
+2023-11-13 14:39:50,434 - root - INFO - Load the playlist.
+2023-11-13 14:39:50,442 - root - INFO - Playlist loading succeeded.
+2023-11-13 14:39:50,442 - root - INFO - Playlist loading succeeded.
+2023-11-13 14:39:50,635 - root - INFO - Extract the last page number.
+2023-11-13 14:39:50,635 - root - INFO - Extract the last page number.
+2023-11-13 14:39:50,648 - root - INFO - Extract the next button.
+2023-11-13 14:39:50,648 - root - INFO - Extract the next button.
+2023-11-13 14:39:50,658 - root - INFO - Next page element not found. This is last page.
+2023-11-13 14:39:50,658 - root - INFO - Next page element not found. This is last page.
+2023-11-13 14:39:50,658 - root - INFO - ==========================================================
+2023-11-13 14:39:50,658 - root - INFO - ==========================================================
+2023-11-13 14:39:52,751 - root - INFO - >>>>>>>>>>>>>>>>> Edit playlist element list >>>>>>>>>>>>>>>>>
+2023-11-13 14:39:52,751 - root - INFO - >>>>>>>>>>>>>>>>> Edit playlist element list >>>>>>>>>>>>>>>>>
+2023-11-13 14:39:52,751 - root - INFO - Add a song to list. (type :MY)
+2023-11-13 14:39:52,751 - root - INFO - Add a song to list. (type :MY)
+2023-11-13 14:39:52,752 - root - INFO - ==========================================================
+2023-11-13 14:39:52,752 - root - INFO - ==========================================================
+2023-11-13 14:39:52,752 - root - INFO - >>>>>>>>>>>>>>>>> Create an Text file >>>>>>>>>>>>>>>>>
+2023-11-13 14:39:52,752 - root - INFO - >>>>>>>>>>>>>>>>> Create an Text file >>>>>>>>>>>>>>>>>
+2023-11-13 14:39:52,752 - root - INFO - Perform list division.
+2023-11-13 14:39:52,752 - root - INFO - Perform list division.
+2023-11-13 14:39:52,753 - root - INFO - Create a text file.
+2023-11-13 14:39:52,753 - root - INFO - Create a text file.
+2023-11-13 14:39:52,754 - root - INFO - ==========================================================
+2023-11-13 14:39:52,754 - root - INFO - ==========================================================
+2023-11-13 14:39:52,754 - root - INFO - >>>>>>>>>>>>>>>>> Move the playlist to YouTube. >>>>>>>>>>>>>>>>>
+2023-11-13 14:39:52,754 - root - INFO - >>>>>>>>>>>>>>>>> Move the playlist to YouTube. >>>>>>>>>>>>>>>>>
+2023-11-13 14:39:52,754 - WDM - INFO - ====== WebDriver manager ======
+2023-11-13 14:39:52,754 - WDM - INFO - ====== WebDriver manager ======
+2023-11-13 14:39:53,290 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2023-11-13 14:39:53,290 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2023-11-13 14:39:53,572 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2023-11-13 14:39:53,572 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2023-11-13 14:39:53,837 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2023-11-13 14:39:53,837 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2023-11-13 14:39:54,374 - WDM - INFO - WebDriver version 119.0.6045.105 selected
+2023-11-13 14:39:54,374 - WDM - INFO - WebDriver version 119.0.6045.105 selected
+2023-11-13 14:39:54,376 - WDM - INFO - Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/119.0.6045.105/win32/chromedriver-win32.zip
+2023-11-13 14:39:54,376 - WDM - INFO - Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/119.0.6045.105/win32/chromedriver-win32.zip
+2023-11-13 14:39:54,376 - WDM - INFO - About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/119.0.6045.105/win32/chromedriver-win32.zip
+2023-11-13 14:39:54,376 - WDM - INFO - About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/119.0.6045.105/win32/chromedriver-win32.zip
+2023-11-13 14:39:54,651 - WDM - INFO - Driver downloading response is 200
+2023-11-13 14:39:54,651 - WDM - INFO - Driver downloading response is 200
+2023-11-13 14:39:55,562 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2023-11-13 14:39:55,562 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2023-11-13 14:39:55,928 - WDM - INFO - Driver has been saved in cache [C:\Users\User\.wdm\drivers\chromedriver\win64\119.0.6045.105]
+2023-11-13 14:39:55,928 - WDM - INFO - Driver has been saved in cache [C:\Users\User\.wdm\drivers\chromedriver\win64\119.0.6045.105]
+2023-11-13 14:39:57,298 - root - INFO - Load the Soundiiz login page.
+2023-11-13 14:39:57,298 - root - INFO - Load the Soundiiz login page.
+2023-11-13 14:39:59,098 - root - INFO - Page loading succeeded.
+2023-11-13 14:39:59,098 - root - INFO - Page loading succeeded.
+2023-11-13 14:39:59,098 - root - INFO - Load the playlists page.
+2023-11-13 14:39:59,098 - root - INFO - Load the playlists page.
+2023-11-13 14:40:46,963 - root - INFO - Page loading succeeded.
+2023-11-13 14:40:46,963 - root - INFO - Page loading succeeded.
+2023-11-13 14:40:46,963 - root - INFO - Create a new playlist.
+2023-11-13 14:40:46,963 - root - INFO - Create a new playlist.
+2023-11-13 14:40:47,065 - root - INFO - Import Playlist button found.
+2023-11-13 14:40:47,065 - root - INFO - Import Playlist button found.
+2023-11-13 14:40:47,147 - root - INFO - From File button found.
+2023-11-13 14:40:47,147 - root - INFO - From File button found.
+2023-11-13 14:40:47,147 - root - INFO - Adding Playlist : [1/1]
+2023-11-13 14:40:47,147 - root - INFO - Adding Playlist : [1/1]
+2023-11-13 14:40:47,218 - root - INFO - Select File button found.
+2023-11-13 14:40:47,218 - root - INFO - Select File button found.
+2023-11-13 14:50:31,724 - root - INFO - The user pressed Conversion Success button.
+2023-11-13 14:50:31,724 - root - INFO - The user pressed Conversion Success button.
+2023-11-13 14:50:42,025 - root - ERROR - Conversion Success button could not be found.
+2023-11-13 14:50:42,025 - root - ERROR - Conversion Success button could not be found.
+2023-11-13 14:50:42,025 - root - ERROR - ; An error occurred during the creation of the plate.
+2023-11-13 14:50:42,025 - root - ERROR - ; An error occurred during the creation of the plate.
+2023-11-13 14:50:42,025 - root - INFO - ======================== SUCCESS ========================
+2023-11-13 14:50:42,025 - root - INFO - ======================== SUCCESS ========================
+2023-11-13 14:50:42,025 - root - INFO - Exit the program.
+2023-11-13 14:50:42,025 - root - INFO - Exit the program.
+2023-11-13 14:52:32,717 - root - INFO - >>>>>>>>>>>>>>>>> Import Playist from Melon >>>>>>>>>>>>>>>>>
+2023-11-13 14:52:32,717 - root - INFO - >>>>>>>>>>>>>>>>> Import Playist from Melon >>>>>>>>>>>>>>>>>
+2023-11-13 14:55:31,704 - root - INFO - Page loading succeeded. Current page number is [1]
+2023-11-13 14:55:31,704 - root - INFO - Page loading succeeded. Current page number is [1]
+2023-11-13 14:55:31,704 - root - INFO - Extract the Melon playlist.
+2023-11-13 14:55:31,704 - root - INFO - Extract the Melon playlist.
+2023-11-13 14:55:31,718 - root - INFO - Load the playlist.
+2023-11-13 14:55:31,718 - root - INFO - Load the playlist.
+2023-11-13 14:55:31,727 - root - INFO - Playlist loading succeeded.
+2023-11-13 14:55:31,727 - root - INFO - Playlist loading succeeded.
+2023-11-13 14:55:31,925 - root - INFO - Extract the last page number.
+2023-11-13 14:55:31,925 - root - INFO - Extract the last page number.
+2023-11-13 14:55:31,943 - root - INFO - Extract the next page's number.
+2023-11-13 14:55:31,943 - root - INFO - Extract the next page's number.
+2023-11-13 14:55:31,951 - root - INFO - Go to the next page.
+2023-11-13 14:55:31,951 - root - INFO - Go to the next page.
+2023-11-13 14:55:32,552 - root - INFO - Load the playlist.
+2023-11-13 14:55:32,552 - root - INFO - Load the playlist.
+2023-11-13 14:55:32,568 - root - INFO - Playlist loading succeeded.
+2023-11-13 14:55:32,568 - root - INFO - Playlist loading succeeded.
+2023-11-13 14:55:32,737 - root - INFO - Extract the last page number.
+2023-11-13 14:55:32,737 - root - INFO - Extract the last page number.
+2023-11-13 14:55:32,755 - root - INFO - Extract the next page's number.
+2023-11-13 14:55:32,755 - root - INFO - Extract the next page's number.
+2023-11-13 14:55:32,761 - root - INFO - Go to the next page.
+2023-11-13 14:55:32,761 - root - INFO - Go to the next page.
+2023-11-13 14:55:33,342 - root - INFO - Load the playlist.
+2023-11-13 14:55:33,342 - root - INFO - Load the playlist.
+2023-11-13 14:55:33,356 - root - INFO - Playlist loading succeeded.
+2023-11-13 14:55:33,356 - root - INFO - Playlist loading succeeded.
+2023-11-13 14:55:33,552 - root - INFO - Extract the last page number.
+2023-11-13 14:55:33,552 - root - INFO - Extract the last page number.
+2023-11-13 14:55:33,564 - root - INFO - Extract the next page's number.
+2023-11-13 14:55:33,564 - root - INFO - Extract the next page's number.
+2023-11-13 14:55:33,570 - root - INFO - Go to the next page.
+2023-11-13 14:55:33,570 - root - INFO - Go to the next page.
+2023-11-13 14:55:34,132 - root - INFO - Load the playlist.
+2023-11-13 14:55:34,132 - root - INFO - Load the playlist.
+2023-11-13 14:55:34,132 - root - INFO - Playlist loading succeeded.
+2023-11-13 14:55:34,132 - root - INFO - Playlist loading succeeded.
+2023-11-13 14:55:34,325 - root - INFO - Extract the last page number.
+2023-11-13 14:55:34,325 - root - INFO - Extract the last page number.
+2023-11-13 14:55:34,339 - root - INFO - Extract the next page's number.
+2023-11-13 14:55:34,339 - root - INFO - Extract the next page's number.
+2023-11-13 14:55:34,344 - root - INFO - Go to the next page.
+2023-11-13 14:55:34,344 - root - INFO - Go to the next page.
+2023-11-13 14:55:34,917 - root - INFO - Load the playlist.
+2023-11-13 14:55:34,917 - root - INFO - Load the playlist.
+2023-11-13 14:55:34,924 - root - INFO - Playlist loading succeeded.
+2023-11-13 14:55:34,924 - root - INFO - Playlist loading succeeded.
+2023-11-13 14:55:35,042 - root - INFO - Extract the last page number.
+2023-11-13 14:55:35,042 - root - INFO - Extract the last page number.
+2023-11-13 14:55:35,053 - root - INFO - Extract the next button.
+2023-11-13 14:55:35,053 - root - INFO - Extract the next button.
+2023-11-13 14:55:35,062 - root - INFO - Next page element not found. This is last page.
+2023-11-13 14:55:35,062 - root - INFO - Next page element not found. This is last page.
+2023-11-13 14:55:35,063 - root - INFO - ==========================================================
+2023-11-13 14:55:35,063 - root - INFO - ==========================================================
+2023-11-13 14:55:37,126 - root - INFO - >>>>>>>>>>>>>>>>> Edit playlist element list >>>>>>>>>>>>>>>>>
+2023-11-13 14:55:37,126 - root - INFO - >>>>>>>>>>>>>>>>> Edit playlist element list >>>>>>>>>>>>>>>>>
+2023-11-13 14:55:37,126 - root - INFO - Add a song to list. (type :MY)
+2023-11-13 14:55:37,126 - root - INFO - Add a song to list. (type :MY)
+2023-11-13 14:55:37,126 - root - INFO - ==========================================================
+2023-11-13 14:55:37,126 - root - INFO - ==========================================================
+2023-11-13 14:55:37,126 - root - INFO - >>>>>>>>>>>>>>>>> Create an Text file >>>>>>>>>>>>>>>>>
+2023-11-13 14:55:37,126 - root - INFO - >>>>>>>>>>>>>>>>> Create an Text file >>>>>>>>>>>>>>>>>
+2023-11-13 14:55:37,126 - root - INFO - Perform list division.
+2023-11-13 14:55:37,126 - root - INFO - Perform list division.
+2023-11-13 14:55:37,126 - root - INFO - Create a text file.
+2023-11-13 14:55:37,126 - root - INFO - Create a text file.
+2023-11-13 14:55:37,126 - root - INFO - ==========================================================
+2023-11-13 14:55:37,126 - root - INFO - ==========================================================
+2023-11-13 14:55:37,126 - root - INFO - >>>>>>>>>>>>>>>>> Move the playlist to YouTube. >>>>>>>>>>>>>>>>>
+2023-11-13 14:55:37,126 - root - INFO - >>>>>>>>>>>>>>>>> Move the playlist to YouTube. >>>>>>>>>>>>>>>>>
+2023-11-13 14:55:37,126 - WDM - INFO - ====== WebDriver manager ======
+2023-11-13 14:55:37,126 - WDM - INFO - ====== WebDriver manager ======
+2023-11-13 14:55:37,626 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2023-11-13 14:55:37,626 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2023-11-13 14:55:37,922 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2023-11-13 14:55:37,922 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2023-11-13 14:55:38,181 - WDM - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-11-13 14:55:38,181 - WDM - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-11-13 14:55:39,452 - root - INFO - Load the Soundiiz login page.
+2023-11-13 14:55:39,452 - root - INFO - Load the Soundiiz login page.
+2023-11-13 14:55:40,585 - root - INFO - Page loading succeeded.
+2023-11-13 14:55:40,585 - root - INFO - Page loading succeeded.
+2023-11-13 14:55:40,585 - root - INFO - Load the playlists page.
+2023-11-13 14:55:40,585 - root - INFO - Load the playlists page.
+2023-11-13 14:56:07,420 - root - INFO - Page loading succeeded.
+2023-11-13 14:56:07,420 - root - INFO - Page loading succeeded.
+2023-11-13 14:56:07,420 - root - INFO - Create a new playlist.
+2023-11-13 14:56:07,420 - root - INFO - Create a new playlist.
+2023-11-13 14:56:07,520 - root - INFO - Import Playlist button found.
+2023-11-13 14:56:07,520 - root - INFO - Import Playlist button found.
+2023-11-13 14:56:07,589 - root - INFO - From File button found.
+2023-11-13 14:56:07,589 - root - INFO - From File button found.
+2023-11-13 14:56:07,589 - root - INFO - Adding Playlist : [1/2]
+2023-11-13 14:56:07,589 - root - INFO - Adding Playlist : [1/2]
+2023-11-13 14:56:07,653 - root - INFO - Select File button found.
+2023-11-13 14:56:07,653 - root - INFO - Select File button found.
+2023-11-13 15:07:59,007 - root - INFO - The user pressed Conversion Success button.
+2023-11-13 15:07:59,007 - root - INFO - The user pressed Conversion Success button.
+2023-11-13 15:07:59,026 - root - INFO - Conversion Success button found.
+2023-11-13 15:07:59,026 - root - INFO - Conversion Success button found.
+2023-11-13 15:08:02,415 - root - INFO - Import Playlist button found.
+2023-11-13 15:08:02,415 - root - INFO - Import Playlist button found.
+2023-11-13 15:08:02,489 - root - INFO - From File button found.
+2023-11-13 15:08:02,489 - root - INFO - From File button found.
+2023-11-13 15:08:02,489 - root - INFO - Adding Playlist : [2/2]
+2023-11-13 15:08:02,489 - root - INFO - Adding Playlist : [2/2]
+2023-11-13 15:08:02,550 - root - INFO - Select File button found.
+2023-11-13 15:08:02,550 - root - INFO - Select File button found.
+2023-11-13 15:10:31,713 - root - INFO - The user pressed Conversion Success button.
+2023-11-13 15:10:31,713 - root - INFO - The user pressed Conversion Success button.
+2023-11-13 15:10:31,728 - root - INFO - Conversion Success button found.
+2023-11-13 15:10:31,728 - root - INFO - Conversion Success button found.
+2023-11-13 15:10:32,981 - root - INFO - ======================== SUCCESS ========================
+2023-11-13 15:10:32,981 - root - INFO - ======================== SUCCESS ========================
+2023-11-13 15:10:32,981 - root - INFO - Exit the program.
+2023-11-13 15:10:32,981 - root - INFO - Exit the program.

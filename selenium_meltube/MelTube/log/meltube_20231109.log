@@ -1,0 +1,124 @@
+2023-11-09 16:28:05,288 - root - INFO - >>>>>>>>>>>>>>>>> Import Playist from Melon >>>>>>>>>>>>>>>>>
+2023-11-09 16:28:05,288 - root - INFO - >>>>>>>>>>>>>>>>> Import Playist from Melon >>>>>>>>>>>>>>>>>
+2023-11-09 16:28:15,094 - root - INFO - Page loading succeeded. Current page number is [1]
+2023-11-09 16:28:15,094 - root - INFO - Page loading succeeded. Current page number is [1]
+2023-11-09 16:28:15,094 - root - INFO - Extract the Melon playlist.
+2023-11-09 16:28:15,094 - root - INFO - Extract the Melon playlist.
+2023-11-09 16:28:15,105 - root - INFO - Load the playlist.
+2023-11-09 16:28:15,105 - root - INFO - Load the playlist.
+2023-11-09 16:28:15,121 - root - INFO - Playlist loading succeeded.
+2023-11-09 16:28:15,121 - root - INFO - Playlist loading succeeded.
+2023-11-09 16:28:15,334 - root - INFO - Extract the last page number.
+2023-11-09 16:28:15,334 - root - INFO - Extract the last page number.
+2023-11-09 16:28:15,357 - root - INFO - Extract the next page's number.
+2023-11-09 16:28:15,357 - root - INFO - Extract the next page's number.
+2023-11-09 16:28:15,367 - root - INFO - Go to the next page.
+2023-11-09 16:28:15,367 - root - INFO - Go to the next page.
+2023-11-09 16:28:15,994 - root - INFO - Load the playlist.
+2023-11-09 16:28:15,994 - root - INFO - Load the playlist.
+2023-11-09 16:28:15,994 - root - INFO - Playlist loading succeeded.
+2023-11-09 16:28:15,994 - root - INFO - Playlist loading succeeded.
+2023-11-09 16:28:16,241 - root - INFO - Extract the last page number.
+2023-11-09 16:28:16,241 - root - INFO - Extract the last page number.
+2023-11-09 16:28:16,254 - root - INFO - Extract the next page's number.
+2023-11-09 16:28:16,254 - root - INFO - Extract the next page's number.
+2023-11-09 16:28:16,261 - root - INFO - Go to the next page.
+2023-11-09 16:28:16,261 - root - INFO - Go to the next page.
+2023-11-09 16:28:16,863 - root - INFO - Load the playlist.
+2023-11-09 16:28:16,863 - root - INFO - Load the playlist.
+2023-11-09 16:28:16,871 - root - INFO - Playlist loading succeeded.
+2023-11-09 16:28:16,871 - root - INFO - Playlist loading succeeded.
+2023-11-09 16:28:17,080 - root - INFO - Extract the last page number.
+2023-11-09 16:28:17,080 - root - INFO - Extract the last page number.
+2023-11-09 16:28:17,090 - root - INFO - Extract the next page's number.
+2023-11-09 16:28:17,090 - root - INFO - Extract the next page's number.
+2023-11-09 16:28:17,102 - root - INFO - Go to the next page.
+2023-11-09 16:28:17,102 - root - INFO - Go to the next page.
+2023-11-09 16:28:17,724 - root - INFO - Load the playlist.
+2023-11-09 16:28:17,724 - root - INFO - Load the playlist.
+2023-11-09 16:28:17,737 - root - INFO - Playlist loading succeeded.
+2023-11-09 16:28:17,737 - root - INFO - Playlist loading succeeded.
+2023-11-09 16:28:17,952 - root - INFO - Extract the last page number.
+2023-11-09 16:28:17,952 - root - INFO - Extract the last page number.
+2023-11-09 16:28:17,972 - root - INFO - Extract the next page's number.
+2023-11-09 16:28:17,972 - root - INFO - Extract the next page's number.
+2023-11-09 16:28:17,981 - root - INFO - Go to the next page.
+2023-11-09 16:28:17,981 - root - INFO - Go to the next page.
+2023-11-09 16:28:18,577 - root - INFO - Load the playlist.
+2023-11-09 16:28:18,577 - root - INFO - Load the playlist.
+2023-11-09 16:28:18,585 - root - INFO - Playlist loading succeeded.
+2023-11-09 16:28:18,585 - root - INFO - Playlist loading succeeded.
+2023-11-09 16:28:18,808 - root - INFO - Extract the last page number.
+2023-11-09 16:28:18,808 - root - INFO - Extract the last page number.
+2023-11-09 16:28:18,835 - root - INFO - Extract the next page's number.
+2023-11-09 16:28:18,835 - root - INFO - Extract the next page's number.
+2023-11-09 16:28:18,842 - root - INFO - Go to the next page.
+2023-11-09 16:28:18,842 - root - INFO - Go to the next page.
+2023-11-09 16:28:19,434 - root - INFO - Load the playlist.
+2023-11-09 16:28:19,434 - root - INFO - Load the playlist.
+2023-11-09 16:28:19,450 - root - INFO - Playlist loading succeeded.
+2023-11-09 16:28:19,450 - root - INFO - Playlist loading succeeded.
+2023-11-09 16:28:19,570 - root - INFO - Extract the last page number.
+2023-11-09 16:28:19,570 - root - INFO - Extract the last page number.
+2023-11-09 16:28:19,585 - root - INFO - Extract the next button.
+2023-11-09 16:28:19,585 - root - INFO - Extract the next button.
+2023-11-09 16:28:19,596 - root - INFO - The next button is abled.
+2023-11-09 16:28:19,596 - root - INFO - The next button is abled.
+2023-11-09 16:28:29,937 - root - INFO - Next page element not found. This is last page.
+2023-11-09 16:28:29,937 - root - INFO - Next page element not found. This is last page.
+2023-11-09 16:28:29,937 - root - INFO - ==========================================================
+2023-11-09 16:28:29,937 - root - INFO - ==========================================================
+2023-11-09 16:28:31,997 - root - INFO - >>>>>>>>>>>>>>>>> Edit playlist element list >>>>>>>>>>>>>>>>>
+2023-11-09 16:28:31,997 - root - INFO - >>>>>>>>>>>>>>>>> Edit playlist element list >>>>>>>>>>>>>>>>>
+2023-11-09 16:28:31,997 - root - INFO - Add a song to list. (type :DJ)
+2023-11-09 16:28:31,997 - root - INFO - Add a song to list. (type :DJ)
+2023-11-09 16:28:31,998 - root - INFO - ==========================================================
+2023-11-09 16:28:31,998 - root - INFO - ==========================================================
+2023-11-09 16:28:31,998 - root - INFO - >>>>>>>>>>>>>>>>> Create an Text file >>>>>>>>>>>>>>>>>
+2023-11-09 16:28:31,998 - root - INFO - >>>>>>>>>>>>>>>>> Create an Text file >>>>>>>>>>>>>>>>>
+2023-11-09 16:28:31,998 - root - INFO - Perform list division.
+2023-11-09 16:28:31,998 - root - INFO - Perform list division.
+2023-11-09 16:28:31,998 - root - INFO - Create a text file.
+2023-11-09 16:28:31,998 - root - INFO - Create a text file.
+2023-11-09 16:28:31,999 - root - INFO - ==========================================================
+2023-11-09 16:28:31,999 - root - INFO - ==========================================================
+2023-11-09 16:28:31,999 - root - INFO - >>>>>>>>>>>>>>>>> Move the playlist to YouTube. >>>>>>>>>>>>>>>>>
+2023-11-09 16:28:31,999 - root - INFO - >>>>>>>>>>>>>>>>> Move the playlist to YouTube. >>>>>>>>>>>>>>>>>
+2023-11-09 16:28:31,999 - WDM - INFO - ====== WebDriver manager ======
+2023-11-09 16:28:31,999 - WDM - INFO - ====== WebDriver manager ======
+2023-11-09 16:28:32,467 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2023-11-09 16:28:32,467 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2023-11-09 16:28:32,784 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2023-11-09 16:28:32,784 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2023-11-09 16:28:33,053 - WDM - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-11-09 16:28:33,053 - WDM - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-11-09 16:28:34,350 - root - INFO - Load the Soundiiz login page.
+2023-11-09 16:28:34,350 - root - INFO - Load the Soundiiz login page.
+2023-11-09 16:28:36,319 - root - INFO - Page loading succeeded.
+2023-11-09 16:28:36,319 - root - INFO - Page loading succeeded.
+2023-11-09 16:28:36,319 - root - INFO - Load the playlists page.
+2023-11-09 16:28:36,319 - root - INFO - Load the playlists page.
+2023-11-09 16:30:26,432 - root - INFO - Page loading succeeded.
+2023-11-09 16:30:26,432 - root - INFO - Page loading succeeded.
+2023-11-09 16:30:26,432 - root - INFO - Create a new playlist.
+2023-11-09 16:30:26,432 - root - INFO - Create a new playlist.
+2023-11-09 16:30:26,545 - root - INFO - Import Playlist button found.
+2023-11-09 16:30:26,545 - root - INFO - Import Playlist button found.
+2023-11-09 16:30:26,629 - root - INFO - From File button found.
+2023-11-09 16:30:26,629 - root - INFO - From File button found.
+2023-11-09 16:30:26,629 - root - INFO - Adding Playlist : [1/2]
+2023-11-09 16:30:26,629 - root - INFO - Adding Playlist : [1/2]
+2023-11-09 16:30:26,705 - root - INFO - Select File button found.
+2023-11-09 16:30:26,705 - root - INFO - Select File button found.
+2023-11-09 16:31:56,134 - root - INFO - The user pressed Conversion Success button.
+2023-11-09 16:31:56,134 - root - INFO - The user pressed Conversion Success button.
+2023-11-09 16:31:56,145 - root - INFO - Conversion Success button found.
+2023-11-09 16:31:56,145 - root - INFO - Conversion Success button found.
+2023-11-09 16:31:59,721 - root - INFO - Import Playlist button found.
+2023-11-09 16:31:59,721 - root - INFO - Import Playlist button found.
+2023-11-09 16:31:59,795 - root - INFO - From File button found.
+2023-11-09 16:31:59,795 - root - INFO - From File button found.
+2023-11-09 16:31:59,796 - root - INFO - Adding Playlist : [2/2]
+2023-11-09 16:31:59,796 - root - INFO - Adding Playlist : [2/2]
+2023-11-09 16:31:59,891 - root - INFO - Select File button found.
+2023-11-09 16:31:59,891 - root - INFO - Select File button found.
